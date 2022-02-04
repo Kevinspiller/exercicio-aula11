@@ -1,0 +1,26 @@
+{
+  "name": "exercicio-aula11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinspiller/exercicio-aula11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevinspiller/exercicio-aula11/issues"
+  },
+  "homepage": "https://github.com/Kevinspiller/exercicio-aula11#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
